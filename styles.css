@@ -1,0 +1,140 @@
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.header {
+  padding: 0 0 35px 0;
+  background-color: rgb(32, 101, 136);
+  height: 100px;
+  width:100%;
+  
+  }
+.input {
+    font: White;
+    background-color: rgb(196, 193, 193);
+    width:75%;
+    height:40px;
+    float: left;
+}
+
+div {
+  width: 70%;
+    margin: 0 auto;
+}
+
+
+.signup {
+    background-color: orange;
+    colour: rgba(255,255,255,0.8);
+    height: 40px;
+    padding: 5px 25%;
+    border-radius:50px;
+    font-size: 16px;
+    border-style: none;   
+  }
+.search {
+ background-color: rgb(32, 82, 111);
+ padding: 0 0 0 15px;
+}
+.sectionMain {
+    background-image: url('images/city-scape.svg');
+    background-color: rgb(32, 101, 136);
+    height: 550px;
+    width:100%;
+    text-align: center;
+  }
+.sectionMainText {  
+  font-size: 18px;
+  color: rgba(255,255,255,0.8);
+  text-align: center;
+}
+.sectionOrg{
+  background-color: rgb(39, 53, 71);
+  margin: 0px auto;
+  height: 500px;
+  width:100%; 
+}
+
+.sectionOrgText {
+ float:right;
+ text-align: left;
+ color: rgba(255,255,255,0.8);
+ margin-top: 125px;
+ width: 30%;
+}
+
+.sectionOrg-signup {
+  backgrond-colour: #C12127;
+  text-color: rgba(255,255,255,0.8);
+  }
+.sectionWhatIs {
+    background-image: url(images/forklift.svg);
+    background-color: rgb(32, 101, 136);
+    position: left;
+    height:450px;
+    width:100%;
+  }
+.sectionWhatIsText{
+  color: rgba(255,255,255,0.8);
+  width:30%;
+  padding:12%;
+  line-height: 140%;
+  text-align: left;
+  Button: rgb(49, 68, 88);
+}
+.sectionMake{
+  margin:0 auto;
+  font-size: 18px;
+  text-align:center ;
+}
+.sectionMakeText{ 
+  colour: rgb(83,88,98);
+  padding-top: 2%;
+}
+.sectionMakeBoxes { 
+  colour: rgb(135, 145, 156);
+  width:100%;
+  height:430px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.sectionMakeB1{
+  colour: rgb(135, 145, 156);
+  width:30%;
+  padding:5% 15px;
+  float: left;
+}
+.sectionMakeB2{
+  colour: rgb(135, 145, 156);
+  width:30%;
+  padding:5% 15px;
+  float: middle;
+}
+.sectionMakeB3{
+  colour: rgb(135, 145, 156);
+  width:30%;
+  padding:5% 15px;
+  float: fix;
+}
+
+a {
+  links: rgb(208, 74, 73);
+}
+
